@@ -4,11 +4,16 @@ tld
 SOA
 
 Still Need:
+
+Getting certificate gives the following: {
 isHTTPS
 SAN (part of Certificate)
 concentration
 CA
 CA_url
 tld(CA)
+}
+
+Also need to get these:
 CDN
 cname

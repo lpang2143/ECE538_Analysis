@@ -1,0 +1,61 @@
+Certificate for www-alv.google-analytics.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.google-analytics.com'),),)
+SubjectAltName: (('DNS', '*.google-analytics.com'), ('DNS', 'region1.app-measurement.com'), ('DNS', 'app-measurement.com'), ('DNS', 'region1.att.app-measurement.com'), ('DNS', 'att.app-measurement.com'), ('DNS', 'region1.analytics.app-measurement.com'), ('DNS', 'analytics.app-measurement.com'), ('DNS', 'google-analytics.com'), ('DNS', 'region1.google-analytics.com'), ('DNS', 'ssl.google-analytics.com'), ('DNS', 'www.google-analytics.com'), ('DNS', 'region1.analytics.google.com'), ('DNS', 'googletagmanager.com'), ('DNS', 'www.googletagmanager.com'), ('DNS', 'urchin.com'), ('DNS', 'service.urchin.com'), ('DNS', 'fps.goog'), ('DNS', '*.fps.goog'), ('DNS', 'googleoptimize.com'), ('DNS', 'www.googleoptimize.com'))
+
+Certificate for www.amazon.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global CA G2'),))
+Subject: ((('commonName', 'www.amazon.com'),),)
+SubjectAltName: (('DNS', 'amazon.com'), ('DNS', 'amzn.com'), ('DNS', 'uedata.amazon.com'), ('DNS', 'us.amazon.com'), ('DNS', 'www.amazon.com'), ('DNS', 'www.amzn.com'), ('DNS', 'corporate.amazon.com'), ('DNS', 'buybox.amazon.com'), ('DNS', 'iphone.amazon.com'), ('DNS', 'yp.amazon.com'), ('DNS', 'home.amazon.com'), ('DNS', 'origin-www.amazon.com'), ('DNS', 'buckeye-retail-website.amazon.com'), ('DNS', 'huddles.amazon.com'), ('DNS', 'p-nt-www-amazon-com-kalias.amazon.com'), ('DNS', 'p-yo-www-amazon-com-kalias.amazon.com'), ('DNS', 'p-y3-www-amazon-com-kalias.amazon.com'), ('DNS', 'yellowpages.amazon.com'), ('DNS', 'www.m.amazon.com'), ('DNS', 'www.cdn.amazon.com'), ('DNS', 'test-www.amazon.com'), ('DNS', 'mp3recs.amazon.com'), ('DNS', 'konrad-test.amazon.com'))
+
+Certificate for www.espn.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Entrust, Inc.'),), (('organizationalUnitName', 'See www.entrust.net/legal-terms'),), (('organizationalUnitName', '(c) 2012 Entrust, Inc. - for authorized use only'),), (('commonName', 'Entrust Certification Authority - L1K'),))
+Subject: ((('countryName', 'US'),), (('stateOrProvinceName', 'California'),), (('localityName', 'Burbank'),), (('organizationName', 'The Walt Disney Company'),), (('commonName', 'www.espn.com'),))
+SubjectAltName: (('DNS', 'www.espn.com'), ('DNS', '*.api.espn.com'), ('DNS', '*.core.api.espn.com'), ('DNS', '*.espn.com'), ('DNS', '*.espn.net'), ('DNS', '*.espncdn.com'), ('DNS', '*.fan.api.espn.com'), ('DNS', '*.fan.api.espnqa.com'), ('DNS', '*.partnerpub.espn.com'), ('DNS', '*.shortstop.espn.com'), ('DNS', 'category.composition.service.espn.com'), ('DNS', 'category.composition.service.preview.espn.com'), ('DNS', 'espn.com'), ('DNS', 'events.api.preview.espn.com'), ('DNS', 'fan.api.espnqa.com'), ('DNS', 'fan.core.api.espnqa.com'), ('DNS', 'pcc.api.dev.espn.com'), ('DNS', 'pcc.api.qa.espn.com'), ('DNS', 'restrictions.api.preview.espn.com'), ('DNS', 's.secure.espncdn.com'), ('DNS', 'site.managed.api.espn.com'), ('DNS', 'site.mobile.api.espn.com'), ('DNS', 'site.web.api.espn.com'), ('DNS', 'sportscenter.api.preview.espn.com'), ('DNS', 'sportscenter.fan.api.preview.espn.com'), ('DNS', 'watch-cdn.product.api.espn.com'), ('DNS', 'watch.admin.api.espn.com'), ('DNS', 'watch.admin.api.preview.espn.com'), ('DNS', 'watch.admin.espn.com'), ('DNS', 'watch.admin.preview.espn.com'), ('DNS', 'watch.auth.api.espn.com'), ('DNS', 'watch.auth.api.preview.espn.com'), ('DNS', 'watch.graph.api.espn.com'), ('DNS', 'watch.graph.api.preview.espn.com'), ('DNS', 'watch.p13n.product.api.espn.com'), ('DNS', 'watch.p13n.product.api.preview.espn.com'), ('DNS', 'watch.product.api.espn.com'), ('DNS', 'watch.product.api.preview.espn.com'), ('DNS', 'watch.video.api.dev.espn.com'), ('DNS', 'watch.video.api.espn.com'), ('DNS', 'watch.video.api.preview.espn.com'), ('DNS', 'watch.video.api.qa.espn.com'), ('DNS', 'watch.video.api.staging.espn.com'))
+
+Certificate for www.google-analytics.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.google-analytics.com'),),)
+SubjectAltName: (('DNS', '*.google-analytics.com'), ('DNS', 'region1.app-measurement.com'), ('DNS', 'app-measurement.com'), ('DNS', 'region1.att.app-measurement.com'), ('DNS', 'att.app-measurement.com'), ('DNS', 'region1.analytics.app-measurement.com'), ('DNS', 'analytics.app-measurement.com'), ('DNS', 'google-analytics.com'), ('DNS', 'region1.google-analytics.com'), ('DNS', 'ssl.google-analytics.com'), ('DNS', 'www.google-analytics.com'), ('DNS', 'region1.analytics.google.com'), ('DNS', 'googletagmanager.com'), ('DNS', 'www.googletagmanager.com'), ('DNS', 'urchin.com'), ('DNS', 'service.urchin.com'), ('DNS', 'fps.goog'), ('DNS', '*.fps.goog'), ('DNS', 'googleoptimize.com'), ('DNS', 'www.googleoptimize.com'))
+
+Certificate for www.google.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', 'www.google.com'),),)
+SubjectAltName: (('DNS', 'www.google.com'),)
+
+Certificate for www.googleadservices.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', 'www.googleadservices.com'),),)
+SubjectAltName: (('DNS', 'www.googleadservices.com'),)
+
+Certificate for www.googletagmanager.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.google-analytics.com'),),)
+SubjectAltName: (('DNS', '*.google-analytics.com'), ('DNS', 'region1.app-measurement.com'), ('DNS', 'app-measurement.com'), ('DNS', 'region1.att.app-measurement.com'), ('DNS', 'att.app-measurement.com'), ('DNS', 'region1.analytics.app-measurement.com'), ('DNS', 'analytics.app-measurement.com'), ('DNS', 'google-analytics.com'), ('DNS', 'region1.google-analytics.com'), ('DNS', 'ssl.google-analytics.com'), ('DNS', 'www.google-analytics.com'), ('DNS', 'region1.analytics.google.com'), ('DNS', 'googletagmanager.com'), ('DNS', 'www.googletagmanager.com'), ('DNS', 'urchin.com'), ('DNS', 'service.urchin.com'), ('DNS', 'fps.goog'), ('DNS', '*.fps.goog'), ('DNS', 'googleoptimize.com'), ('DNS', 'www.googleoptimize.com'))
+
+Certificate for www.googletagservices.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.g.doubleclick.net'),),)
+SubjectAltName: (('DNS', '*.g.doubleclick.net'), ('DNS', '*.invitemedia.com'), ('DNS', 'g.doubleclick.net'), ('DNS', 'googleadservices.com'), ('DNS', '*.googleadservices.com'), ('DNS', 'googlesyndication.com'), ('DNS', '*.googlesyndication.com'), ('DNS', '*.safeframe.googlesyndication.com'), ('DNS', 'googletagservices.com'), ('DNS', '*.googletagservices.com'), ('DNS', 'media.admob.com'))
+
+Certificate for www.gstatic.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.gstatic.com'),),)
+SubjectAltName: (('DNS', '*.gstatic.com'), ('DNS', 'gstatic.com'), ('DNS', '*.metric.gstatic.com'))
+
+Certificate for www.netflix.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('organizationalUnitName', 'www.digicert.com'),), (('commonName', 'DigiCert Secure Site ECC CA-1'),))
+Subject: ((('countryName', 'US'),), (('stateOrProvinceName', 'California'),), (('localityName', 'Los Gatos'),), (('organizationName', 'Netflix, Inc.'),), (('commonName', 'www.netflix.com'),))
+SubjectAltName: (('DNS', 'account.netflix.com'), ('DNS', 'ca.netflix.com'), ('DNS', 'netflix.ca'), ('DNS', 'netflix.com'), ('DNS', 'signup.netflix.com'), ('DNS', 'www.netflix.ca'), ('DNS', 'www1.netflix.com'), ('DNS', 'www2.netflix.com'), ('DNS', 'www3.netflix.com'), ('DNS', 'develop-stage.netflix.com'), ('DNS', 'release-stage.netflix.com'), ('DNS', 'www.netflix.com'), ('DNS', 'tv.netflix.com'), ('DNS', 'embed.develop-stage.netflix.com'), ('DNS', 'embed.release-stage.netflix.com'))
+
+Certificate for www.spotify.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert TLS RSA SHA256 2020 CA1'),))
+Subject: ((('countryName', 'SE'),), (('localityName', 'Stockholm'),), (('organizationName', 'Spotify AB'),), (('commonName', '*.spotify.com'),))
+SubjectAltName: (('DNS', '*.spotify.com'), ('DNS', 'spotify.com'))
+
+Error fetching certificate for www.tm.ak.prd.aadg.trafficmanager.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tm.ak.prd.aadg.trafficmanager.net'. (_ssl.c:997)
+Certificate for www.uniqlo.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global G2 TLS RSA SHA256 2020 CA1'),))
+Subject: ((('countryName', 'JP'),), (('stateOrProvinceName', 'Tokyo'),), (('localityName', 'Minato-ku'),), (('organizationName', 'FAST RETAILING CO., LTD.'),), (('commonName', 'www.uniqlo.com'),))
+SubjectAltName: (('DNS', 'www.uniqlo.com'),)
+

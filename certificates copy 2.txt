@@ -1,0 +1,111 @@
+Error fetching certificate for 2-01-37d2-0018.cdx.cedexis.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '2-01-37d2-0018.cdx.cedexis.net'. (_ssl.c:997)
+Error fetching certificate for 2-01-37d2-0020.cdx.cedexis.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '2-01-37d2-0020.cdx.cedexis.net'. (_ssl.c:997)
+Error fetching certificate for 7dad4aaf-ed07-4666-b839-c3d25fcb0f8c.local: [Errno 11001] getaddrinfo failed
+Certificate for 8397396.fls.doubleclick.net:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.doubleclick.net'),),)
+SubjectAltName: (('DNS', '*.doubleclick.net'), ('DNS', '*.2mdn.net'), ('DNS', '*.au.doubleclick.net'), ('DNS', '*.cc-dt.com'), ('DNS', '*.de.doubleclick.net'), ('DNS', 'doubleclick.com'), ('DNS', '*.doubleclick.com'), ('DNS', '*.fls.doubleclick.net'), ('DNS', '*.fr.doubleclick.net'), ('DNS', '*.jp.doubleclick.net'), ('DNS', '*.uk.doubleclick.net'), ('DNS', 'ad.mo.doubleclick.net'), ('DNS', 'doubleclick.net'))
+
+Certificate for 885e2dd94adb263c2321d2d0f3778d18523bce4a.cws.conviva.com:
+Issuer: ((('countryName', 'GB'),), (('stateOrProvinceName', 'Greater Manchester'),), (('localityName', 'Salford'),), (('organizationName', 'Sectigo Limited'),), (('commonName', 'Sectigo RSA Organization Validation Secure Server CA'),))
+Subject: ((('countryName', 'US'),), (('stateOrProvinceName', 'California'),), (('organizationName', 'Conviva Inc'),), (('commonName', 'cws.conviva.com'),))
+SubjectAltName: (('DNS', 'cws.conviva.com'), ('DNS', '*.conviva.com'), ('DNS', '*.cws.conviva.com'), ('DNS', '*.ipv4.cws.conviva.com'), ('DNS', '*.ipv6.cws.conviva.com'))
+
+Certificate for 885e2dd94adb263c2321d2d0f3778d18523bce4a.ipv4.cws.conviva.com:
+Issuer: ((('countryName', 'GB'),), (('stateOrProvinceName', 'Greater Manchester'),), (('localityName', 'Salford'),), (('organizationName', 'Sectigo Limited'),), (('commonName', 'Sectigo RSA Organization Validation Secure Server CA'),))
+Subject: ((('countryName', 'US'),), (('stateOrProvinceName', 'California'),), (('organizationName', 'Conviva Inc'),), (('commonName', 'cws.conviva.com'),))
+SubjectAltName: (('DNS', 'cws.conviva.com'), ('DNS', '*.conviva.com'), ('DNS', '*.cws.conviva.com'), ('DNS', '*.ipv4.cws.conviva.com'), ('DNS', '*.ipv6.cws.conviva.com'))
+
+Error fetching certificate for 885e2dd94adb263c2321d2d0f3778d18523bce4a.ipv6.cws.conviva.com: [Errno 11001] getaddrinfo failed
+Certificate for 9035380.fls.doubleclick.net:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.doubleclick.net'),),)
+SubjectAltName: (('DNS', '*.doubleclick.net'), ('DNS', '*.2mdn.net'), ('DNS', '*.au.doubleclick.net'), ('DNS', '*.cc-dt.com'), ('DNS', '*.de.doubleclick.net'), ('DNS', 'doubleclick.com'), ('DNS', '*.doubleclick.com'), ('DNS', '*.fls.doubleclick.net'), ('DNS', '*.fr.doubleclick.net'), ('DNS', '*.jp.doubleclick.net'), ('DNS', '*.uk.doubleclick.net'), ('DNS', 'ad.mo.doubleclick.net'), ('DNS', 'doubleclick.net'))
+
+Error fetching certificate for MNZ-efz.ms-acdc.office.com: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'MNZ-efz.ms-acdc.office.com'. (_ssl.c:997)
+Certificate for a.espncdn.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Entrust, Inc.'),), (('organizationalUnitName', 'See www.entrust.net/legal-terms'),), (('organizationalUnitName', '(c) 2012 Entrust, Inc. - for authorized use only'),), (('commonName', 'Entrust Certification Authority - L1K'),))
+Subject: ((('countryName', 'US'),), (('stateOrProvinceName', 'California'),), (('localityName', 'Burbank'),), (('organizationName', 'The Walt Disney Company'),), (('commonName', 'a.espncdn.com'),))
+SubjectAltName: (('DNS', 'a.espncdn.com'), ('DNS', 'a1.espncdn.com'), ('DNS', 'a2.espncdn.com'), ('DNS', 'a3.espncdn.com'), ('DNS', 'a4.espncdn.com'), ('DNS', 'assets.espn.com'), ('DNS', 'assets.espn.go.com'), ('DNS', 's.secure.espncdn.com'), ('DNS', 'secure.espn.com'), ('DNS', 'secure.espncdn.com'))
+
+Error fetching certificate for a1111.g1.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1111.g1.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1249.dscg.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1249.dscg.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1520.dscc.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1520.dscc.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1793.dscg1.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1793.dscg1.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1806.dscw154.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1806.dscw154.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1818.dscw154.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1818.dscw154.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1831.dscg2.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1831.dscg2.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1838.dscw154.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1838.dscw154.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1874.g1.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1874.g1.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1887.dscq.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1887.dscq.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1890.dscv.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1890.dscv.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1956.dscw154.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1956.dscw154.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1988.b.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1988.b.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1988.dscapi6.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1988.dscapi6.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a1988.dscg1.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a1988.dscg1.akamai.net'. (_ssl.c:997)
+Error fetching certificate for a297.dscc.akamai.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'a297.dscc.akamai.net'. (_ssl.c:997)
+Certificate for aan.amazon.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('commonName', 'Amazon RSA 2048 M01'),))
+Subject: ((('commonName', 'aan.amazon.com'),),)
+SubjectAltName: (('DNS', 'aan.amazon.com'),)
+
+Certificate for aax-us-east-retail-direct.amazon.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('commonName', 'Amazon RSA 2048 M01'),))
+Subject: ((('commonName', 'aax-us-iad.amazon.com'),),)
+SubjectAltName: (('DNS', 'aax-us-iad.amazon.com'), ('DNS', 'aax-us-east-retail-direct.amazon.com'), ('DNS', 'aax-us-east-retail-direct.amazon-adsystem.com'), ('DNS', 'aax-na.amazon.com.mx'), ('DNS', 'aax-sa.amazon.com.br'), ('DNS', 'aax-na.amazon.ca'))
+
+Certificate for aax-us-east.amazon-adsystem.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('commonName', 'Amazon RSA 2048 M01'),))
+Subject: ((('commonName', 'aax-us-east.amazon-adsystem.com'),),)
+SubjectAltName: (('DNS', 'aax-us-east.amazon-adsystem.com'), ('DNS', 'aax.amazon-adsystem.com'), ('DNS', 'aax-cpm.amazon-adsystem.com'), ('DNS', 'aax-us.amazon-adsystem.com'), ('DNS', 'aax-dtb-web.amazon-adsystem.com'), ('DNS', 'aax-ott.amazon-adsystem.com'), ('DNS', 'aax-dtb-legacy.amazon-adsystem.amazon.com'), ('DNS', 'aax-dtb-mobile-cf.amazon-adsystem.amazon.com'), ('DNS', 'aax-dtb-legacy.amazon-adsystem.com'), ('DNS', 'aax-dtb-mobile-cf.amazon-adsystem.com'), ('DNS', 'aax-dtb-cf.amazon-adsystem.com'), ('DNS', 'aax-ott-sdk.amazon-adsystem.com'), ('DNS', 'aax-dtb-mobile-px.amazon-adsystem.com'), ('DNS', 'aax-dtb-mobile-geo.amazon-adsystem.com'), ('DNS', 'aax-dtb-mobile-geo.amazon-adsystem.amazon.com'), ('DNS', 'aax-dtb-web-geo.amazon-adsystem.com'), ('DNS', 'aax-dtb-web-bids-geo.amazon-adsystem.com'), ('DNS', 'aax-dtb-mobile-bids-geo.amazon-adsystem.com'))
+
+Certificate for aax-us-iad.amazon.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('commonName', 'Amazon RSA 2048 M01'),))
+Subject: ((('commonName', 'aax-us-iad.amazon.com'),),)
+SubjectAltName: (('DNS', 'aax-us-iad.amazon.com'), ('DNS', 'aax-us-east-retail-direct.amazon.com'), ('DNS', 'aax-us-east-retail-direct.amazon-adsystem.com'), ('DNS', 'aax-na.amazon.com.mx'), ('DNS', 'aax-sa.amazon.com.br'), ('DNS', 'aax-na.amazon.ca'))
+
+Certificate for aax.amazon-adsystem.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('commonName', 'Amazon RSA 2048 M01'),))
+Subject: ((('commonName', 'aax-dtb-mobile-cf.amazon-adsystem.com'),),)
+SubjectAltName: (('DNS', 'aax.amazon-adsystem.com'), ('DNS', 'aax-dtb-mobile-poc.amazon-adsystem.amazon.com'), ('DNS', 'aax-dtb-mobile-cf.amazon-adsystem.com'), ('DNS', 'aax-dtb-cf.amazon-adsystem.amazon.com'), ('DNS', 'aax-dtb-cf.amazon-adsystem.com'))
+
+Certificate for ad.doubleclick.net:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.doubleclick.net'),),)
+SubjectAltName: (('DNS', '*.doubleclick.net'), ('DNS', '*.2mdn.net'), ('DNS', '*.au.doubleclick.net'), ('DNS', '*.cc-dt.com'), ('DNS', '*.de.doubleclick.net'), ('DNS', 'doubleclick.com'), ('DNS', '*.doubleclick.com'), ('DNS', '*.fls.doubleclick.net'), ('DNS', '*.fr.doubleclick.net'), ('DNS', '*.jp.doubleclick.net'), ('DNS', '*.uk.doubleclick.net'), ('DNS', 'ad.mo.doubleclick.net'), ('DNS', 'doubleclick.net'))
+
+Certificate for ade.googlesyndication.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.g.doubleclick.net'),),)
+SubjectAltName: (('DNS', '*.g.doubleclick.net'), ('DNS', '*.invitemedia.com'), ('DNS', 'g.doubleclick.net'), ('DNS', 'googleadservices.com'), ('DNS', '*.googleadservices.com'), ('DNS', 'googlesyndication.com'), ('DNS', '*.googlesyndication.com'), ('DNS', '*.safeframe.googlesyndication.com'), ('DNS', 'googletagservices.com'), ('DNS', '*.googletagservices.com'), ('DNS', 'media.admob.com'))
+
+Certificate for ads-config.unityads.unity3d.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Global G2 TLS RSA SHA256 2020 CA1'),))
+Subject: ((('countryName', 'DK'),), (('localityName', 'København'),), (('organizationName', 'Unity Technologies ApS'),), (('commonName', '*.unityads.unity3d.com'),))
+SubjectAltName: (('DNS', '*.unityads.unity3d.com'), ('DNS', 'unityads.unity3d.com'))
+
+Certificate for adservice.google.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Google Trust Services LLC'),), (('commonName', 'GTS CA 1C3'),))
+Subject: ((('commonName', '*.google.com'),),)
+SubjectAltName: (('DNS', '*.google.com'), ('DNS', '*.appengine.google.com'), ('DNS', '*.bdn.dev'), ('DNS', '*.origin-test.bdn.dev'), ('DNS', '*.cloud.google.com'), ('DNS', '*.crowdsource.google.com'), ('DNS', '*.datacompute.google.com'), ('DNS', '*.google.ca'), ('DNS', '*.google.cl'), ('DNS', '*.google.co.in'), ('DNS', '*.google.co.jp'), ('DNS', '*.google.co.uk'), ('DNS', '*.google.com.ar'), ('DNS', '*.google.com.au'), ('DNS', '*.google.com.br'), ('DNS', '*.google.com.co'), ('DNS', '*.google.com.mx'), ('DNS', '*.google.com.tr'), ('DNS', '*.google.com.vn'), ('DNS', '*.google.de'), ('DNS', '*.google.es'), ('DNS', '*.google.fr'), ('DNS', '*.google.hu'), ('DNS', '*.google.it'), ('DNS', '*.google.nl'), ('DNS', '*.google.pl'), ('DNS', '*.google.pt'), ('DNS', '*.googleadapis.com'), ('DNS', '*.googleapis.cn'), ('DNS', '*.googlevideo.com'), ('DNS', '*.gstatic.cn'), ('DNS', '*.gstatic-cn.com'), ('DNS', 'googlecnapps.cn'), ('DNS', '*.googlecnapps.cn'), ('DNS', 'googleapps-cn.com'), ('DNS', '*.googleapps-cn.com'), ('DNS', 'gkecnapps.cn'), ('DNS', '*.gkecnapps.cn'), ('DNS', 'googledownloads.cn'), ('DNS', '*.googledownloads.cn'), ('DNS', 'recaptcha.net.cn'), ('DNS', '*.recaptcha.net.cn'), ('DNS', 'recaptcha-cn.net'), ('DNS', '*.recaptcha-cn.net'), ('DNS', 'widevine.cn'), ('DNS', '*.widevine.cn'), ('DNS', 'ampproject.org.cn'), ('DNS', '*.ampproject.org.cn'), ('DNS', 'ampproject.net.cn'), ('DNS', '*.ampproject.net.cn'), ('DNS', 'google-analytics-cn.com'), ('DNS', '*.google-analytics-cn.com'), ('DNS', 'googleadservices-cn.com'), ('DNS', '*.googleadservices-cn.com'), ('DNS', 'googlevads-cn.com'), ('DNS', '*.googlevads-cn.com'), ('DNS', 'googleapis-cn.com'), ('DNS', '*.googleapis-cn.com'), ('DNS', 'googleoptimize-cn.com'), ('DNS', '*.googleoptimize-cn.com'), ('DNS', 'doubleclick-cn.net'), ('DNS', '*.doubleclick-cn.net'), ('DNS', '*.fls.doubleclick-cn.net'), ('DNS', '*.g.doubleclick-cn.net'), ('DNS', 'doubleclick.cn'), ('DNS', '*.doubleclick.cn'), ('DNS', '*.fls.doubleclick.cn'), ('DNS', '*.g.doubleclick.cn'), ('DNS', 'dartsearch-cn.net'), ('DNS', '*.dartsearch-cn.net'), ('DNS', 'googletraveladservices-cn.com'), ('DNS', '*.googletraveladservices-cn.com'), ('DNS', 'googletagservices-cn.com'), ('DNS', '*.googletagservices-cn.com'), ('DNS', 'googletagmanager-cn.com'), ('DNS', '*.googletagmanager-cn.com'), ('DNS', 'googlesyndication-cn.com'), ('DNS', '*.googlesyndication-cn.com'), ('DNS', '*.safeframe.googlesyndication-cn.com'), ('DNS', 'app-measurement-cn.com'), ('DNS', '*.app-measurement-cn.com'), ('DNS', 'gvt1-cn.com'), ('DNS', '*.gvt1-cn.com'), ('DNS', 'gvt2-cn.com'), ('DNS', '*.gvt2-cn.com'), ('DNS', '2mdn-cn.net'), ('DNS', '*.2mdn-cn.net'), ('DNS', 'googleflights-cn.net'), ('DNS', '*.googleflights-cn.net'), ('DNS', 'admob-cn.com'), ('DNS', '*.admob-cn.com'), ('DNS', 'googlesandbox-cn.com'), ('DNS', '*.googlesandbox-cn.com'), ('DNS', '*.safenup.googlesandbox-cn.com'), ('DNS', '*.gstatic.com'), ('DNS', '*.metric.gstatic.com'), ('DNS', '*.gvt1.com'), ('DNS', '*.gcpcdn.gvt1.com'), ('DNS', '*.gvt2.com'), ('DNS', '*.gcp.gvt2.com'), ('DNS', '*.url.google.com'), ('DNS', '*.youtube-nocookie.com'), ('DNS', '*.ytimg.com'), ('DNS', 'android.com'), ('DNS', '*.android.com'), ('DNS', '*.flash.android.com'), ('DNS', 'g.cn'), ('DNS', '*.g.cn'), ('DNS', 'g.co'), ('DNS', '*.g.co'), ('DNS', 'goo.gl'), ('DNS', 'www.goo.gl'), ('DNS', 'google-analytics.com'), ('DNS', '*.google-analytics.com'), ('DNS', 'google.com'), ('DNS', 'googlecommerce.com'), ('DNS', '*.googlecommerce.com'), ('DNS', 'ggpht.cn'), ('DNS', '*.ggpht.cn'), ('DNS', 'urchin.com'), ('DNS', '*.urchin.com'), ('DNS', 'youtu.be'), ('DNS', 'youtube.com'), ('DNS', '*.youtube.com'), ('DNS', 'youtubeeducation.com'), ('DNS', '*.youtubeeducation.com'), ('DNS', 'youtubekids.com'), ('DNS', '*.youtubekids.com'), ('DNS', 'yt.be'), ('DNS', '*.yt.be'), ('DNS', 'android.clients.google.com'), ('DNS', 'developer.android.google.cn'), ('DNS', 'developers.android.google.cn'), ('DNS', 'source.android.google.cn'), ('DNS', 'developer.chrome.google.cn'), ('DNS', 'web.developers.google.cn'))
+
+Error fetching certificate for adstore.response.eastus.trafficmanager.net: [WinError 10054] An existing connection was forcibly closed by the remote host
+Certificate for adx.ads.vungle.com:
+Issuer: ((('countryName', 'GB'),), (('stateOrProvinceName', 'Greater Manchester'),), (('localityName', 'Salford'),), (('organizationName', 'Sectigo Limited'),), (('commonName', 'Sectigo RSA Domain Validation Secure Server CA'),))
+Subject: ((('commonName', '*.ads.vungle.com'),),)
+SubjectAltName: (('DNS', '*.ads.vungle.com'), ('DNS', 'ads.vungle.com'))
+
+Certificate for aeng.svcs.plus.espn.com:
+Issuer: ((('countryName', 'GB'),), (('stateOrProvinceName', 'Greater Manchester'),), (('localityName', 'Salford'),), (('organizationName', 'COMODO CA Limited'),), (('commonName', 'COMODO RSA Organization Validation Secure Server CA'),))
+Subject: ((('countryName', 'US'),), (('stateOrProvinceName', 'New York'),), (('organizationName', 'BAMTECH, LLC'),), (('commonName', '*.svcs.plus.espn.com'),))
+SubjectAltName: (('DNS', '*.svcs.plus.espn.com'), ('DNS', 'svcs.plus.espn.com'))
+
+Certificate for affiliate.api.espn.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Entrust, Inc.'),), (('organizationalUnitName', 'See www.entrust.net/legal-terms'),), (('organizationalUnitName', '(c) 2012 Entrust, Inc. - for authorized use only'),), (('commonName', 'Entrust Certification Authority - L1K'),))
+Subject: ((('countryName', 'US'),), (('stateOrProvinceName', 'California'),), (('localityName', 'Burbank'),), (('organizationName', 'The Walt Disney Company'),), (('commonName', 'www.espn.com'),))
+SubjectAltName: (('DNS', 'www.espn.com'), ('DNS', '*.api.espn.com'), ('DNS', '*.core.api.espn.com'), ('DNS', '*.espn.com'), ('DNS', '*.espn.net'), ('DNS', '*.espncdn.com'), ('DNS', '*.fan.api.espn.com'), ('DNS', '*.fan.api.espnqa.com'), ('DNS', '*.partnerpub.espn.com'), ('DNS', '*.shortstop.espn.com'), ('DNS', 'category.composition.service.espn.com'), ('DNS', 'category.composition.service.preview.espn.com'), ('DNS', 'espn.com'), ('DNS', 'events.api.preview.espn.com'), ('DNS', 'fan.api.espnqa.com'), ('DNS', 'fan.core.api.espnqa.com'), ('DNS', 'pcc.api.dev.espn.com'), ('DNS', 'pcc.api.qa.espn.com'), ('DNS', 'restrictions.api.preview.espn.com'), ('DNS', 's.secure.espncdn.com'), ('DNS', 'site.managed.api.espn.com'), ('DNS', 'site.mobile.api.espn.com'), ('DNS', 'site.web.api.espn.com'), ('DNS', 'sportscenter.api.preview.espn.com'), ('DNS', 'sportscenter.fan.api.preview.espn.com'), ('DNS', 'watch-cdn.product.api.espn.com'), ('DNS', 'watch.admin.api.espn.com'), ('DNS', 'watch.admin.api.preview.espn.com'), ('DNS', 'watch.admin.espn.com'), ('DNS', 'watch.admin.preview.espn.com'), ('DNS', 'watch.auth.api.espn.com'), ('DNS', 'watch.auth.api.preview.espn.com'), ('DNS', 'watch.graph.api.espn.com'), ('DNS', 'watch.graph.api.preview.espn.com'), ('DNS', 'watch.p13n.product.api.espn.com'), ('DNS', 'watch.p13n.product.api.preview.espn.com'), ('DNS', 'watch.product.api.espn.com'), ('DNS', 'watch.product.api.preview.espn.com'), ('DNS', 'watch.video.api.dev.espn.com'), ('DNS', 'watch.video.api.espn.com'), ('DNS', 'watch.video.api.preview.espn.com'), ('DNS', 'watch.video.api.qa.espn.com'), ('DNS', 'watch.video.api.staging.espn.com'))
+
+Error fetching certificate for affiliate.api.geo.hosted.espn.com: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'affiliate.api.geo.hosted.espn.com'. (_ssl.c:997)
+Error fetching certificate for amp-api-edge-lb.itunes-apple.com.akadns.net: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'amp-api-edge-lb.itunes-apple.com.akadns.net'. (_ssl.c:997)
+Certificate for amp-api-edge.apps.apple.com:
+Issuer: ((('countryName', 'US'),), (('organizationName', 'Apple Inc.'),), (('commonName', 'Apple Public EV Server RSA CA 2 - G1'),))
