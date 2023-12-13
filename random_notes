@@ -1,0 +1,15 @@
+website
+-ns
+-isHttps
+-SOA
+-SAN
+-CA
+-CDN
+
+CAs
+-ca_url(ca, w)
+-SOA
+
+CDN
+-cname(cdn, w)
+-SOA(cname)
