@@ -1,0 +1,14 @@
+Have:
+NS
+tld
+SOA
+
+Still Need:
+isHTTPS
+SAN (part of Certificate)
+concentration
+CA
+CA_url
+tld(CA)
+CDN
+cname
