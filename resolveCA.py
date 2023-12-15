@@ -12,7 +12,7 @@ with open("domains.txt", "r") as file:
             continue
         filtered_domains.append(domain.split()[1])
 
-with open("certificates.txt", "w") as output_file:
+with open("certificates_line.txt", "w") as output_file:
     for domain in filtered_domains:
         try:
             # Create a socket and connect to the domain
@@ -27,12 +27,12 @@ with open("certificates.txt", "w") as output_file:
                 cert = ssock.getpeercert()
                 
                 # Write the certificate details to the output file
-                output_file.write(f"Certificate for {domain}:\n")
-                output_file.write(f"Issuer: {cert['issuer']}\n")
-                output_file.write(f"Subject: {cert['subject']}\n")
-                output_file.write(f"SubjectAltName: {cert['subjectAltName']}\n")
+                output_file.write(f"{domain}:/")
+                output_file.write(f"Issuer: {cert['issuer']}/")
+                output_file.write(f"Subject: {cert['subject']}/")
+                output_file.write(f"SubjectAltName: {cert['subjectAltName']}/")
                 output_file.write("\n")
                         
         except Exception as e:
             output_file.write(f"Error fetching certificate for {domain}: {e}\n")
-            output_file.write("\n")
+            # output_file.write("")
