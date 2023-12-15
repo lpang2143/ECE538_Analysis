@@ -2,17 +2,13 @@ from enum import Enum
 import tldextract as tld
 from resolveSOA import getSOA
 import sys
-
-class NS_TYPE(Enum):
-    UNKNOWN = 1
-    PRIVATE = 2
-    THIRD = 3
+from utils import DEP_TYPE
 
 def main():
     f = open('ns_unique', 'r')
     out = open(sys.argv[1], 'w')
     for line in f:
-        ns_type = NS_TYPE.UNKNOWN
+        ns_type = DEP_TYPE.UNKNOWN
         host = ''
         line = line.split(':')
         w = line[0]
@@ -40,20 +36,20 @@ def main():
                 
         # check if tld matches
         if tld_w in tld_ns:
-            ns_type = NS_TYPE.PRIVATE
+            ns_type = DEP_TYPE.PRIVATE
         # check if HTTPS and tld(ns) in SAN(w)
         elif (isHTTPS_w and any(n in SAN_w for n in tld_ns)):
-            ns_type = NS_TYPE.PRIVATE
+            ns_type = DEP_TYPE.PRIVATE
         # check if SOA(ns) != SOA(w)
         elif (SOA_ns != SOA_w):
-            ns_type = NS_TYPE.THIRD
+            ns_type = DEP_TYPE.THIRD
         # check if concentration(ns) >= 50
         elif (conc_ns >= 50):
-            ns_type = NS_TYPE.THIRD
+            ns_type = DEP_TYPE.THIRD
         
-        if ns_type == NS_TYPE.UNKNOWN:
+        if ns_type == DEP_TYPE.UNKNOWN:
             final = 'UNKNOWN'
-        elif ns_type == NS_TYPE.PRIVATE:
+        elif ns_type == DEP_TYPE.PRIVATE:
             final = 'PRIVATE'
         else:
             final = 'THIRD'
