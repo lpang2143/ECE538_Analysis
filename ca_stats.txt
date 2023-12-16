@@ -1,0 +1,13 @@
+Google Trust Services LLC:96
+DigiCert Inc:96
+Amazon:80
+Apple Inc.:55
+Sectigo Limited:21
+Entrust, Inc.:21
+Microsoft Corporation:21
+"Let's Encrypt":11
+GlobalSign nv-sa:5
+Cloudflare, Inc.:4
+COMODO CA Limited:3
+DigiCert, Inc.:1
+ZeroSSL:1

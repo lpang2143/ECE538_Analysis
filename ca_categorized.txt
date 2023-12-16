@@ -1,0 +1,590 @@
+failed
+failed
+address_error
+8397396.fls.doubleclick.net:THIRD:Google Trust Services LLC
+885e2dd94adb263c2321d2d0f3778d18523bce4a.cws.conviva.com:THIRD:Sectigo Limited
+885e2dd94adb263c2321d2d0f3778d18523bce4a.ipv4.cws.conviva.com:THIRD:Sectigo Limited
+address_error
+9035380.fls.doubleclick.net:THIRD:Google Trust Services LLC
+failed
+a.espncdn.com:THIRD:Entrust, Inc.
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+aan.amazon.com:THIRD:Amazon
+aax-us-east-retail-direct.amazon.com:THIRD:Amazon
+aax-us-east.amazon-adsystem.com:THIRD:Amazon
+aax-us-iad.amazon.com:THIRD:Amazon
+aax.amazon-adsystem.com:THIRD:Amazon
+ad.doubleclick.net:THIRD:Google Trust Services LLC
+ade.googlesyndication.com:THIRD:Google Trust Services LLC
+ads-config.unityads.unity3d.com:THIRD:DigiCert Inc
+adservice.google.com:THIRD:Google Trust Services LLC
+address_error
+adx.ads.vungle.com:THIRD:Sectigo Limited
+aeng.svcs.plus.espn.com:THIRD:COMODO CA Limited
+affiliate.api.espn.com:THIRD:Entrust, Inc.
+failed
+failed
+amp-api-edge.apps.apple.com:PRIVATE:Apple Inc.
+amp-api.apps.apple.com:PRIVATE:Apple Inc.
+failed
+analytics.tiktok.com:THIRD:DigiCert Inc
+android.clients.google.com:THIRD:Google Trust Services LLC
+android.googleapis.com:THIRD:Google Trust Services LLC
+address_error
+api-adservices.apple.com:PRIVATE:Apple Inc.
+api-edge.apps.apple.com:PRIVATE:Apple Inc.
+api-gateway-ap-prd-va6-02.infra.adobe.io:THIRD:DigiCert Inc
+api-noam.flightproxy.teams.microsoft.com:PRIVATE:Microsoft Corporation
+api.apps.apple.com:PRIVATE:Apple Inc.
+api.bounceexchange.com:PRIVATE:"Let's Encrypt"
+api.depop.com:PRIVATE:"Let's Encrypt"
+api.fast.com:THIRD:DigiCert Inc
+api.github.com:THIRD:DigiCert Inc
+api.helpshift.com:THIRD:Sectigo Limited
+api.mapbox.com:THIRD:Amazon
+api.onesignal.com:THIRD:Cloudflare, Inc.
+api.playlnk.io:THIRD:DigiCert Inc
+api.segment.io:THIRD:Amazon
+api.userstore.skype.com:THIRD:Microsoft Corporation
+api2.branch.io:THIRD:DigiCert Inc
+api3.siftscience.com:THIRD:DigiCert Inc
+failed
+failed
+failed
+failed
+failed
+failed
+app-measurement.com:THIRD:Google Trust Services LLC
+app-site-association.cdn-apple.com:PRIVATE:Apple Inc.
+failed
+failed
+apple.com:PRIVATE:Apple Inc.
+address_error
+apps.mzstatic.com:PRIVATE:Apple Inc.
+apresolve.spotify.com:THIRD:DigiCert Inc
+artwork.api.espn.com:THIRD:Entrust, Inc.
+artwork.espn.net:THIRD:Entrust, Inc.
+artwork.espncdn.com:THIRD:Entrust, Inc.
+assets.adobedtm.com:THIRD:DigiCert Inc
+assets.applovin.com:THIRD:Google Trust Services LLC
+assets.bounceexchange.com:THIRD:Google Trust Services LLC
+assets.espn.com:THIRD:Entrust, Inc.
+assets.tetris.pstetris.com:THIRD:Amazon
+assoc-na.associates-amazon.com:THIRD:Amazon
+auction-load.unityads.unity3d.com:THIRD:DigiCert Inc
+audio-ak-spotify-com.akamaized.net:THIRD:DigiCert Inc
+audio-akp-quic-control-spotify-com.akamaized.net:THIRD:DigiCert Inc
+authsvc.teams.microsoft.com:PRIVATE:Microsoft Corporation
+avatars.githubusercontent.com:THIRD:DigiCert Inc
+b.de.inmobi.com:THIRD:Sectigo Limited
+backend-unified.mylirr.org:THIRD:Amazon
+bag.itunes.apple.com:PRIVATE:Apple Inc.
+bam-sdk-configs.bamgrid.com:THIRD:Amazon
+banners-inventory-weighted-geo.hyprmx.com:THIRD:Amazon
+banners-inventory-weighted.hyprmx.com:THIRD:Amazon
+failed
+bat.bing.com:PRIVATE:Microsoft Corporation
+blob.dub21prdstr08a.store.core.windows.net:THIRD:Microsoft Corporation
+broadband.espn.com:THIRD:Entrust, Inc.
+failed
+c.amazon-adsystem.com:THIRD:Amazon
+c.cintnetworks.com:PRIVATE:DigiCert, Inc.
+c.go-mpulse.net:THIRD:DigiCert Inc
+failed
+ca.iadsdk.apple.com:PRIVATE:Apple Inc.
+failed
+calendar.google.com:THIRD:Google Trust Services LLC
+canvaz.scdn.co:THIRD:DigiCert Inc
+cast.google.com:THIRD:Google Trust Services LLC
+cdn-content.ampproject.org:PRIVATE:Google Trust Services LLC
+cdn-f.adsmoloco.com:THIRD:GlobalSign nv-sa
+cdn-gl.imrworldwide.com:THIRD:DigiCert Inc
+cdn-lb.vungle.com:THIRD:Sectigo Limited
+cdn-settings.segment.com:THIRD:Amazon
+cdn-store-icons-akamai-prd.unityads.unity3d.com:THIRD:DigiCert Inc
+cdn.ampproject.org:PRIVATE:Google Trust Services LLC
+cdn.attn.tv:THIRD:Amazon
+cdn.branch.io:THIRD:Amazon
+cdn.cookielaw.org:THIRD:Cloudflare, Inc.
+cdn.espn.com:PRIVATE:"Let's Encrypt"
+cdn.pbbl.co:THIRD:Amazon
+cdn.registerdisney.go.com:THIRD:Entrust, Inc.
+cdn.taboola.com:THIRD:DigiCert Inc
+cdn1.espn.net:THIRD:Entrust, Inc.
+cdn1.netsrv.com:PRIVATE:"Let's Encrypt"
+cdn2.inner-active.mobi:THIRD:DigiCert Inc
+cdp.cloud.unity3d.com:THIRD:DigiCert Inc
+failed
+chatsvcagg.teams.microsoft.com:PRIVATE:Microsoft Corporation
+client-api.itunes.apple.com:PRIVATE:Apple Inc.
+clients.config.office.net:THIRD:Microsoft Corporation
+failed
+clients3.google.com:THIRD:Google Trust Services LLC
+clients4.google.com:THIRD:Google Trust Services LLC
+clienttracing-pa.googleapis.com:THIRD:Google Trust Services LLC
+failed
+collector-pxj6lydtxz.perimeterx.net:THIRD:DigiCert Inc
+address_error
+address_error
+completion.amazon.com:THIRD:Amazon
+failed
+config.ads.vungle.com:THIRD:Sectigo Limited
+failed
+config.emb-api.com:THIRD:DigiCert Inc
+config.inmobi.com:THIRD:Sectigo Limited
+config.mapbox.com:THIRD:Amazon
+failed
+config.teams.microsoft.com:PRIVATE:Microsoft Corporation
+config.uca.cloud.unity3d.com:THIRD:Google Trust Services LLC
+configuration.apple.com:PRIVATE:Apple Inc.
+configuration.ls.apple.com:PRIVATE:Apple Inc.
+address_error
+configv2.unityads.unity3d.com:THIRD:DigiCert Inc
+connect.facebook.net:THIRD:DigiCert Inc
+connectivitycheck.gstatic.com:THIRD:Google Trust Services LLC
+content-autofill.googleapis.com:THIRD:Google Trust Services LLC
+conversions.appsflyer.com:THIRD:Amazon
+failed
+failed
+crashlyticsreports-pa.googleapis.com:THIRD:Google Trust Services LLC
+cw4dzy19m3ktp3er7xrvoafkfeiht1701631868.uaid.imrworldwide.com:THIRD:Amazon
+failed
+d.applovin.com:THIRD:Google Trust Services LLC
+d18yyyqht609b0.cloudfront.net:THIRD:Amazon
+d1c8e7mhm09egg.cloudfront.net:THIRD:Amazon
+d1jvc9b8z3vcjs.cloudfront.net:THIRD:Amazon
+d1nruqhae353qc.cloudfront.net:THIRD:Amazon
+d1ykf07e75w7ss.cloudfront.net:THIRD:Amazon
+failed
+d2926jmvsihu4k.cloudfront.net:THIRD:Amazon
+d29sshy11yr8a1.cloudfront.net:THIRD:Amazon
+d2f2ekwwtg17a.cloudfront.net:THIRD:Amazon
+d2h8zr0m6mus4x.cloudfront.net:THIRD:Amazon
+d2s2jxtv35392n.cloudfront.net:THIRD:Amazon
+d2trvg47ymk15r.cloudfront.net:THIRD:Amazon
+d2wpodxytd2amw.cloudfront.net:THIRD:Amazon
+d32t1bob6d76al.cloudfront.net:THIRD:Amazon
+d3414yzj4y1jtc.cloudfront.net:THIRD:Amazon
+d3ag4hukkh62yn.cloudfront.net:THIRD:Amazon
+d3b55opm33rbhk.cloudfront.net:THIRD:Amazon
+d3r454g9v5s33k.cloudfront.net:THIRD:Amazon
+failed
+data.emb-api.com:THIRD:DigiCert Inc
+dcf.espn.com:THIRD:Entrust, Inc.
+failed
+dealer.spotify.com:THIRD:DigiCert Inc
+device-provisioning.googleapis.com:THIRD:Google Trust Services LLC
+discover-pa.googleapis.com:THIRD:Google Trust Services LLC
+disney.demdex.net:THIRD:DigiCert Inc
+address_error
+address_error
+downloaddispatch.itunes.apple.com:PRIVATE:Apple Inc.
+dpm.demdex.net:THIRD:DigiCert Inc
+failed
+dspbeacons.ihasdsp.inmobi.com:THIRD:DigiCert Inc
+dspbeacons.old.ihasdsp.inmobi.com:THIRD:DigiCert Inc
+failed
+failed
+failed
+failed
+duihxgfnjg37f.cloudfront.net:THIRD:Amazon
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+address_error
+failed
+address_error
+failed
+address_error
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+edge-mqtt.facebook.com:THIRD:DigiCert Inc
+failed
+edge.safedk.com:THIRD:Google Trust Services LLC
+encrypted-tbn0.gstatic.com:THIRD:Google Trust Services LLC
+encrypted-tbn1.gstatic.com:THIRD:Google Trust Services LLC
+encrypted-tbn3.gstatic.com:THIRD:Google Trust Services LLC
+failed
+failed
+entitlements.itunes.apple.com:PRIVATE:Apple Inc.
+failed
+espn.api.edge.bamgrid.com:THIRD:Amazon
+failed
+espn.hb-api.omtrdc.net:THIRD:DigiCert Inc
+et-eus.w.inmobi.com:THIRD:Sectigo Limited
+eus.r.inmobi.com:THIRD:Sectigo Limited
+events.ads.vungle.com:THIRD:Sectigo Limited
+events.mapbox.com:THIRD:DigiCert Inc
+events.mz.unity3d.com:THIRD:DigiCert Inc
+external-static-gateway.supersonicads.com:THIRD:Amazon
+fan.api.espn.com:THIRD:Entrust, Inc.
+failed
+fan.core.api.espn.com:THIRD:Entrust, Inc.
+failed
+fastly-tls12-insights-collector.newrelic.com:THIRD:DigiCert Inc
+failed
+firebase-settings.crashlytics.com:THIRD:Google Trust Services LLC
+firebaseinappmessaging.googleapis.com:THIRD:Google Trust Services LLC
+firebaseinstallations.googleapis.com:THIRD:Google Trust Services LLC
+firebaselogging-pa.googleapis.com:THIRD:Google Trust Services LLC
+firebaseremoteconfig.googleapis.com:THIRD:Google Trust Services LLC
+failed
+fls-na.amazon.com:THIRD:Amazon
+failed
+failed
+fmipalservice.icloud.com:PRIVATE:Apple Inc.
+fonts.gstatic.com:THIRD:Google Trust Services LLC
+failed
+failed
+friend.gc.apple.com:PRIVATE:Apple Inc.
+failed
+gateway.facebook.com:THIRD:DigiCert Inc
+gateway.fe.apple-dns.net:PRIVATE:Apple Inc.
+gateway.instagram.com:THIRD:DigiCert Inc
+gce-auction20-prd.unityads.unity3d.com:THIRD:DigiCert Inc
+geller-pa.googleapis.com:THIRD:Google Trust Services LLC
+failed
+failed
+go.microsoft.com:PRIVATE:Microsoft Corporation
+go.trouter.teams.microsoft.com:PRIVATE:Microsoft Corporation
+google.com:THIRD:Google Trust Services LLC
+googleads.g.doubleclick.net:THIRD:Google Trust Services LLC
+failed
+graph.facebook.com:THIRD:DigiCert Inc
+graph.instagram.com:THIRD:DigiCert Inc
+gsa.apple.com:PRIVATE:Apple Inc.
+gsa.idms-apple.com.akadns.net:PRIVATE:Apple Inc.
+gsas.apple.com:PRIVATE:Apple Inc.
+failed
+failed
+gsp-ssl.ls.apple.com:PRIVATE:Apple Inc.
+failed
+gsp64-ssl.ls.apple.com:PRIVATE:Apple Inc.
+gspe19-ssl.ls.apple.com:PRIVATE:Apple Inc.
+gspe35-ssl.ls.apple.com:PRIVATE:Apple Inc.
+gspe79-ssl.ls.apple.com:PRIVATE:Apple Inc.
+failed
+guzzoni.apple.com:PRIVATE:Apple Inc.
+httpkafka.unityads.unity3d.com:THIRD:DigiCert Inc
+address_error
+i.instagram.com:THIRD:DigiCert Inc
+i.l-dsp.inmobicdn.net:THIRD:DigiCert Inc
+i.scdn.co:THIRD:DigiCert Inc
+i.ytimg.com:THIRD:Google Trust Services LLC
+ib.adnxs.com:THIRD:DigiCert Inc
+failed
+ic.de.inmobi.com:THIRD:Sectigo Limited
+ic3.events.data.microsoft.com:PRIVATE:Microsoft Corporation
+ichnaea-web.netflix.com:THIRD:DigiCert Inc
+icloud.com:PRIVATE:Apple Inc.
+identitytoolkit.googleapis.com:THIRD:Google Trust Services LLC
+im.uniqlo.com:THIRD:DigiCert Inc
+image-cdn-ak.spotifycdn.com:THIRD:DigiCert Inc
+image.uniqlo.com:THIRD:DigiCert Inc
+images-na.ssl-images-amazon.com:THIRD:DigiCert Inc
+imasdk.googleapis.com:THIRD:Google Trust Services LLC
+in.appcenter.ms:PRIVATE:Microsoft Corporation
+failed
+failed
+inappcheck.itunes.apple.com:PRIVATE:Apple Inc.
+inapps.appsflyer.com:THIRD:Amazon
+init.gc.apple.com:PRIVATE:Apple Inc.
+init.itunes.apple.com:PRIVATE:Apple Inc.
+init.supersonicads.com:THIRD:Amazon
+insights-collector.newrelic.com:THIRD:DigiCert Inc
+ios.ngp.prod.cloud.netflix.com:THIRD:DigiCert Inc
+ios.prod.cloud.netflix.com:THIRD:DigiCert Inc
+ios.prod.ftl.netflix.com:THIRD:DigiCert Inc
+iosapps.itunes.apple.com:PRIVATE:Apple Inc.
+failed
+ipv4-c072-nyc005-ix.1.oca.nflxvideo.net:THIRD:DigiCert Inc
+ipv4-c085-nyc005-ix.1.oca.nflxvideo.net:THIRD:DigiCert Inc
+address_error
+is-gateway.supersonicads.com:THIRD:Amazon
+is1-ssl.mzstatic.com:PRIVATE:Apple Inc.
+failed
+itunes.apple.com:PRIVATE:Apple Inc.
+jnn-pa.googleapis.com:THIRD:Google Trust Services LLC
+js.cnnx.link:THIRD:Amazon
+js.rmtag.com:THIRD:Google Trust Services LLC
+failed
+ka5zy9kw-ios.mobile-messenger.intercom.com:THIRD:Amazon
+kaden-s3.b-cdn.net:THIRD:Sectigo Limited
+kvinit-prod.api.kochava.com:THIRD:Sectigo Limited
+launches.appsflyer.com:THIRD:Amazon
+address_error
+failed
+lcdn-locator.apple.com:PRIVATE:Apple Inc.
+lh3.googleusercontent.com:THIRD:Google Trust Services LLC
+lh5.googleusercontent.com:THIRD:Google Trust Services LLC
+live-ftc-na-east-1.media.plus.espn.com:THIRD:COMODO CA Limited
+log-activity.templates.inmobi.com:THIRD:Sectigo Limited
+failed
+log.go.com:THIRD:Amazon
+login.microsoftonline.com:THIRD:DigiCert Inc
+login5.spotify.com:THIRD:DigiCert Inc
+logs.ironsrc.mobi:THIRD:Amazon
+m.media-amazon.com:THIRD:DigiCert Inc
+mads.amazon-adsystem.com:THIRD:Amazon
+mads.amazon.com:THIRD:Amazon
+mail.google.com:THIRD:Google Trust Services LLC
+failed
+mamservice.manage.microsoft.com:PRIVATE:Microsoft Corporation
+marketplace-ios-b274.hyprmx.com:THIRD:Amazon
+address_error
+address_error
+failed
+mesu.apple.com:PRIVATE:Apple Inc.
+failed
+metrics.icloud.com:PRIVATE:Apple Inc.
+failed
+mobile-collector.newrelic.com:THIRD:DigiCert Inc
+address_error
+mobile-data.onetrust.io:THIRD:Cloudflare, Inc.
+failed
+failed
+mrodevicemgr.officeapps.live.com:THIRD:Microsoft Corporation
+ms.applovin.com:THIRD:DigiCert Inc
+ms4.applovin.com:THIRD:DigiCert Inc
+mtalk.google.com:THIRD:Google Trust Services LLC
+failed
+musicstatus.itunes.apple.com:PRIVATE:Apple Inc.
+networksdk.ssacdn.com:THIRD:Amazon
+nexus-websocket-a.intercom.io:THIRD:DigiCert Inc
+nginx-ingress.wunderkind.co:PRIVATE:"Let's Encrypt"
+noam.cc.skype.com:THIRD:Microsoft Corporation
+northamerica-1.object-storage.apple.com:PRIVATE:Apple Inc.
+failed
+notifications-pa.googleapis.com:THIRD:Google Trust Services LLC
+oauth2.googleapis.com:THIRD:Google Trust Services LLC
+oauthaccountmanager.googleapis.com:THIRD:Google Trust Services LLC
+occ-0-448-444.1.nflxso.net:THIRD:DigiCert Inc
+failed
+ocsp.pki.goog:PRIVATE:Google Trust Services LLC
+ocsp.rootca1.amazontrust.com:PRIVATE:Amazon
+failed
+failed
+odc.officeapps.live.com:THIRD:Microsoft Corporation
+failed
+failed
+onprem-ipv4.cws.conviva.com:THIRD:Sectigo Limited
+failed
+optanon.blob.core.windows.net:THIRD:Microsoft Corporation
+outcome-ssp.supersonicads.com:THIRD:Amazon
+p1.psplay.link:THIRD:Amazon
+p11.techlab-cdn.com:PRIVATE:"Let's Encrypt"
+failed
+p39-buy.itunes.apple.com:PRIVATE:Apple Inc.
+p66-caldav.icloud.com:PRIVATE:Apple Inc.
+p66-escrowproxy.icloud.com:PRIVATE:Apple Inc.
+p66-fmf.icloud.com:PRIVATE:Apple Inc.
+pagead2.googlesyndication.com:THIRD:Google Trust Services LLC
+failed
+passwordsleakcheck-pa.googleapis.com:THIRD:Google Trust Services LLC
+pd.cdnwidget.com:PRIVATE:"Let's Encrypt"
+pd.itunes.apple.com:PRIVATE:Apple Inc.
+failed
+pinpoint-latency.geo.hosted.espn.com:THIRD:Amazon
+pinpoint.espn.com:THIRD:Entrust, Inc.
+failed
+play.google.com:THIRD:Google Trust Services LLC
+play.googleapis.com:THIRD:Google Trust Services LLC
+play.itunes.apple.com:PRIVATE:Apple Inc.
+playback.svcs.plus.espn.com:THIRD:COMODO CA Limited
+failed
+poole-collector-prod.n3twork.com:THIRD:Amazon
+failed
+prd-usw2-requestattribution-iad.apple.com:PRIVATE:Apple Inc.
+failed
+presence.teams.microsoft.com:PRIVATE:Microsoft Corporation
+address_error
+failed
+prod-mediate-events.applovin.com:THIRD:Google Trust Services LLC
+prod.hyprmx.com:THIRD:Amazon
+failed
+prod.tetris.pstetris.com:THIRD:Amazon
+failed
+pubads.g.doubleclick.net:THIRD:Google Trust Services LLC
+pubads46.g.doubleclick.net:THIRD:Google Trust Services LLC
+failed
+failed
+publisher-event.unityads.unity3d.com:THIRD:DigiCert Inc
+px-conf-ipv.perimeterx.net:THIRD:DigiCert Inc
+px-conf.perimeterx.net:THIRD:DigiCert Inc
+qqr5cduw.micpn.com:THIRD:Amazon
+failed
+readaloud.googleapis.com:THIRD:Google Trust Services LLC
+redirector.googlevideo.com:THIRD:Google Trust Services LLC
+registerdisney.go.com:THIRD:Amazon
+reminders-pa.googleapis.com:THIRD:Google Trust Services LLC
+remote-config-prd.uca.cloud.unity3d.com:THIRD:Google Trust Services LLC
+res.cdn.office.net:THIRD:DigiCert Inc
+rr1---sn-8xgp1vo-ab5l.googlevideo.com:THIRD:Google Trust Services LLC
+rr2---sn-8xgp1vo-xfgl.googlevideo.com:THIRD:Google Trust Services LLC
+rr2---sn-8xgp1vo-xfgs.googlevideo.com:THIRD:Google Trust Services LLC
+rr3---sn-8xgp1vo-ab5l.googlevideo.com:THIRD:Google Trust Services LLC
+rr4---sn-8xgp1vo-ab56.googlevideo.com:THIRD:Google Trust Services LLC
+rr4---sn-8xgp1vo-ab5l.googlevideo.com:THIRD:Google Trust Services LLC
+rr4---sn-8xgp1vo-ab5s.googlevideo.com:THIRD:Google Trust Services LLC
+rr4---sn-8xgp1vo-ab5z.googlevideo.com:THIRD:Google Trust Services LLC
+rr6---sn-8xgp1vo-ab5e.googlevideo.com:THIRD:Google Trust Services LLC
+rr6---sn-8xgp1vo-ab5z.googlevideo.com:THIRD:Google Trust Services LLC
+rr8---sn-8xgp1vo-ab5z.googlevideo.com:THIRD:Google Trust Services LLC
+rt.applovin.com:THIRD:DigiCert Inc
+rv-gateway.supersonicads.com:THIRD:Amazon
+failed
+failed
+s.amazon-adsystem.com:THIRD:Amazon
+s.espncdn.com:PRIVATE:"Let's Encrypt"
+s.go-mpulse.net:THIRD:DigiCert Inc
+s.youtube.com:THIRD:Google Trust Services LLC
+save-pa.googleapis.com:THIRD:Google Trust Services LLC
+sb.scorecardresearch.com:THIRD:Sectigo Limited
+sc-static.net:THIRD:Amazon
+scar.unityads.unity3d.com:THIRD:DigiCert Inc
+scontent-lga3-1.cdninstagram.com:THIRD:DigiCert Inc
+scontent-lga3-2.cdninstagram.com:THIRD:DigiCert Inc
+scontent.xx.fbcdn.net:THIRD:DigiCert Inc
+scripts.webcontentassessor.com:THIRD:GlobalSign nv-sa
+sdk-api-v1.singular.net:THIRD:DigiCert Inc
+sdk-gate.singular.net:THIRD:DigiCert Inc
+sdk.iad-01.braze.com:THIRD:GlobalSign nv-sa
+sdk.iad-06.braze.com:THIRD:GlobalSign nv-sa
+se-edge.itunes.apple.com:PRIVATE:Apple Inc.
+searchpromo-pa.googleapis.com:THIRD:Google Trust Services LLC
+secure-dcr.imrworldwide.com:THIRD:DigiCert Inc
+secure.espn.com:THIRD:Entrust, Inc.
+secure.espncdn.com:THIRD:Entrust, Inc.
+securetoken.googleapis.com:THIRD:Google Trust Services LLC
+seed-mix-image.spotifycdn.com:THIRD:GlobalSign nv-sa
+sentry.io:THIRD:DigiCert Inc
+service-pkgespn.akamaized.net:THIRD:DigiCert Inc
+failed
+setup.icloud.com:PRIVATE:Apple Inc.
+sf-api-token-service.itunes.apple.com:PRIVATE:Apple Inc.
+silverbullet-external-ats.itunes.apple.com:PRIVATE:Apple Inc.
+site.web.api.espn.com:THIRD:Entrust, Inc.
+failed
+failed
+sp.auth.adobe.com:THIRD:DigiCert Inc
+spclient.wg.spotify.com:THIRD:DigiCert Inc
+sportscenter.api.espn.com:THIRD:Entrust, Inc.
+sportscenter.fan.api.espn.com:THIRD:Entrust, Inc.
+ssl.google-analytics.com:THIRD:Google Trust Services LLC
+ssl.gstatic.com:THIRD:Google Trust Services LLC
+address_error
+failed
+failed
+static.bounceexchange.com:THIRD:Google Trust Services LLC
+static.doubleclick.net:THIRD:Google Trust Services LLC
+static.hyprmx.com:THIRD:Amazon
+static.ssacdn.com:THIRD:Amazon
+stats.g.doubleclick.net:THIRD:Google Trust Services LLC
+stats.gc.apple.com:PRIVATE:Apple Inc.
+failed
+streams.adobeprimetime.com:THIRD:DigiCert Inc
+substrate.office.com:THIRD:DigiCert Inc
+suggestqueries.google.com:THIRD:Google Trust Services LLC
+failed
+sw88.espn.com:THIRD:DigiCert Inc
+sw88.go.com:THIRD:DigiCert Inc
+tag.bouncex.net:PRIVATE:"Let's Encrypt"
+tag.wknd.ai:PRIVATE:"Let's Encrypt"
+tay-ingestion.playlnk.io:PRIVATE:"Let's Encrypt"
+tdzima9s82mz7cih6olkiouyjjy421701631868.uaid.imrworldwide.com:THIRD:Amazon
+teams.events.data.microsoft.com:PRIVATE:Microsoft Corporation
+teams.microsoft.com:PRIVATE:Microsoft Corporation
+failed
+failed
+failed
+telemetry.sdk.inmobi.com:THIRD:Sectigo Limited
+failed
+failed
+failed
+failed
+tpc.googlesyndication.com:THIRD:Google Trust Services LLC
+tr-us.adsmoloco.com:THIRD:Sectigo Limited
+tredir.espn.com:THIRD:Amazon
+u.expo.dev:THIRD:Cloudflare, Inc.
+unagi-na.amazon.com:THIRD:Amazon
+unagi.amazon.com:THIRD:Amazon
+failed
+upp.itunes.apple.com:PRIVATE:Apple Inc.
+us-app.justride.com:THIRD:Amazon
+us-east.netsrv.com:THIRD:Amazon
+us.creativecdn.com:THIRD:DigiCert Inc
+failed
+ut.linksynergy.com:THIRD:Google Trust Services LLC
+ut.rd.linksynergy.com:THIRD:ZeroSSL
+uts-api.itunes.apple.com:PRIVATE:Apple Inc.
+v.ssacdn.com:THIRD:Amazon
+va-edge.sc.omtrdc.net:THIRD:DigiCert Inc
+failed
+valid.apple.com:PRIVATE:Apple Inc.
+video.geo.hosted.espn.com:THIRD:Amazon
+view.adjust.com:THIRD:DigiCert Inc
+viper-gke-test.inner-active.mobi:THIRD:Sectigo Limited
+vision.fn-pz.com:THIRD:Amazon
+watch.graph.api.espn.com:THIRD:Entrust, Inc.
+failed
+watch.product.api.espn.com:THIRD:Entrust, Inc.
+failed
+failed
+web.facebook.com:THIRD:DigiCert Inc
+webview.unityads.unity3d.com:THIRD:Amazon
+failed
+worldaz.relay.teams.microsoft.com:PRIVATE:Microsoft Corporation
+wv.inner-active.mobi:THIRD:Sectigo Limited
+www-alv.google-analytics.com:THIRD:Google Trust Services LLC
+www.amazon.com:THIRD:DigiCert Inc
+www.espn.com:THIRD:Entrust, Inc.
+www.google-analytics.com:THIRD:Google Trust Services LLC
+www.google.com:THIRD:Google Trust Services LLC
+www.googleadservices.com:THIRD:Google Trust Services LLC
+www.googletagmanager.com:THIRD:Google Trust Services LLC
+www.googletagservices.com:THIRD:Google Trust Services LLC
+www.gstatic.com:THIRD:Google Trust Services LLC
+www.netflix.com:THIRD:DigiCert Inc
+www.spotify.com:THIRD:DigiCert Inc
+failed
+www.uniqlo.com:THIRD:DigiCert Inc
+www.youtube.com:THIRD:Google Trust Services LLC
+failed
+xgapromomanager-pa.googleapis.com:THIRD:Google Trust Services LLC
+xp.apple.com:PRIVATE:Apple Inc.
+failed
+xymfbjf5odf8lnfumnvpn6z4wj1081701631869.uaid.imrworldwide.com:THIRD:Amazon
+youtubei.googleapis.com:THIRD:Google Trust Services LLC
+yt3.ggpht.com:THIRD:Google Trust Services LLC
+yt3.googleusercontent.com:THIRD:Google Trust Services LLC
+address_error
+z.moatads.com:THIRD:DigiCert Inc
+zn5oofkuyw9aqvtwc-uniqlousa.siteintercept.qualtrics.com:THIRD:DigiCert Inc
