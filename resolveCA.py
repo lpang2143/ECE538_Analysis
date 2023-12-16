@@ -36,3 +36,4 @@ with open("certificates_line.txt", "w") as output_file:
         except Exception as e:
             output_file.write(f"Error fetching certificate for {domain}: {e}\n")
             # output_file.write("")
+

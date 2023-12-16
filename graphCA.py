@@ -67,5 +67,28 @@ def piePlot():
     # plot = plt.get_figure()
     plt.savefig('CA_pie', bbox_inches='tight')
 
+def histPlot():
+    sb.set_theme(style="whitegrid", palette="pastel")
+    data = []
+    f = open('ca_categorized_method.txt', 'r')
+    for line in f:
+        if 'failed' in line or 'address_error' in line:
+            continue
+        line = line.split(":")
+        val = line[2]
+        # print(val)
+        data.append(val)
+
+    # df = pd.DataFrame({'Category': data})
+    # sizes = df['Category'].sort_values()
+
+    sb.histplot(data, element='bars', legend=True)
+    plt.xticks(rotation=45)
+    # plt.legend(loc=3, labels=keys)
+    plt.show()
+    plt.tight_layout()
+    # plot = plt.get_figure()
+    # plt.savefig('CA_pie', bbox_inches='tight')
+
 if __name__ == "__main__":
-    piePlot()
+    histPlot()

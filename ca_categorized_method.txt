@@ -1,0 +1,590 @@
+failed
+failed
+address_error
+8397396.fls.doubleclick.net:THIRD:Google Trust Services LLC:soa_match
+885e2dd94adb263c2321d2d0f3778d18523bce4a.cws.conviva.com:THIRD:Sectigo Limited:soa_match
+885e2dd94adb263c2321d2d0f3778d18523bce4a.ipv4.cws.conviva.com:THIRD:Sectigo Limited:soa_match
+address_error
+9035380.fls.doubleclick.net:THIRD:Google Trust Services LLC:soa_match
+failed
+a.espncdn.com:THIRD:Entrust, Inc.:soa_match
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+aan.amazon.com:THIRD:Amazon:soa_match
+aax-us-east-retail-direct.amazon.com:THIRD:Amazon:soa_match
+aax-us-east.amazon-adsystem.com:THIRD:Amazon:soa_match
+aax-us-iad.amazon.com:THIRD:Amazon:soa_match
+aax.amazon-adsystem.com:THIRD:Amazon:soa_match
+ad.doubleclick.net:THIRD:Google Trust Services LLC:soa_match
+ade.googlesyndication.com:THIRD:Google Trust Services LLC:soa_match
+ads-config.unityads.unity3d.com:THIRD:DigiCert Inc:soa_match
+adservice.google.com:THIRD:Google Trust Services LLC:soa_match
+address_error
+adx.ads.vungle.com:THIRD:Sectigo Limited:soa_match
+aeng.svcs.plus.espn.com:THIRD:COMODO CA Limited:soa_match
+affiliate.api.espn.com:THIRD:Entrust, Inc.:soa_match
+failed
+failed
+amp-api-edge.apps.apple.com:PRIVATE:Apple Inc.:san_match
+amp-api.apps.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+analytics.tiktok.com:THIRD:DigiCert Inc:soa_match
+android.clients.google.com:THIRD:Google Trust Services LLC:soa_match
+android.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+address_error
+api-adservices.apple.com:PRIVATE:Apple Inc.:san_match
+api-edge.apps.apple.com:PRIVATE:Apple Inc.:san_match
+api-gateway-ap-prd-va6-02.infra.adobe.io:THIRD:DigiCert Inc:soa_match
+api-noam.flightproxy.teams.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+api.apps.apple.com:PRIVATE:Apple Inc.:san_match
+api.bounceexchange.com:PRIVATE:"Let's Encrypt":san_match
+api.depop.com:PRIVATE:"Let's Encrypt":san_match
+api.fast.com:THIRD:DigiCert Inc:soa_match
+api.github.com:THIRD:DigiCert Inc:soa_match
+api.helpshift.com:THIRD:Sectigo Limited:soa_match
+api.mapbox.com:THIRD:Amazon:soa_match
+api.onesignal.com:THIRD:Cloudflare, Inc.:soa_match
+api.playlnk.io:THIRD:DigiCert Inc:soa_match
+api.segment.io:THIRD:Amazon:soa_match
+api.userstore.skype.com:THIRD:Microsoft Corporation:soa_match
+api2.branch.io:THIRD:DigiCert Inc:soa_match
+api3.siftscience.com:THIRD:DigiCert Inc:soa_match
+failed
+failed
+failed
+failed
+failed
+failed
+app-measurement.com:THIRD:Google Trust Services LLC:soa_match
+app-site-association.cdn-apple.com:PRIVATE:Apple Inc.:san_match
+failed
+failed
+apple.com:PRIVATE:Apple Inc.:san_match
+address_error
+apps.mzstatic.com:PRIVATE:Apple Inc.:san_match
+apresolve.spotify.com:THIRD:DigiCert Inc:soa_match
+artwork.api.espn.com:THIRD:Entrust, Inc.:soa_match
+artwork.espn.net:THIRD:Entrust, Inc.:soa_match
+artwork.espncdn.com:THIRD:Entrust, Inc.:soa_match
+assets.adobedtm.com:THIRD:DigiCert Inc:soa_match
+assets.applovin.com:THIRD:Google Trust Services LLC:soa_match
+assets.bounceexchange.com:THIRD:Google Trust Services LLC:soa_match
+assets.espn.com:THIRD:Entrust, Inc.:soa_match
+assets.tetris.pstetris.com:THIRD:Amazon:soa_match
+assoc-na.associates-amazon.com:THIRD:Amazon:soa_match
+auction-load.unityads.unity3d.com:THIRD:DigiCert Inc:soa_match
+audio-ak-spotify-com.akamaized.net:THIRD:DigiCert Inc:soa_match
+audio-akp-quic-control-spotify-com.akamaized.net:THIRD:DigiCert Inc:soa_match
+authsvc.teams.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+avatars.githubusercontent.com:THIRD:DigiCert Inc:soa_match
+b.de.inmobi.com:THIRD:Sectigo Limited:soa_match
+backend-unified.mylirr.org:THIRD:Amazon:soa_match
+bag.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+bam-sdk-configs.bamgrid.com:THIRD:Amazon:soa_match
+banners-inventory-weighted-geo.hyprmx.com:THIRD:Amazon:soa_match
+banners-inventory-weighted.hyprmx.com:THIRD:Amazon:soa_match
+failed
+bat.bing.com:PRIVATE:Microsoft Corporation:san_match
+blob.dub21prdstr08a.store.core.windows.net:THIRD:Microsoft Corporation:soa_match
+broadband.espn.com:THIRD:Entrust, Inc.:soa_match
+failed
+c.amazon-adsystem.com:THIRD:Amazon:soa_match
+c.cintnetworks.com:PRIVATE:DigiCert, Inc.:san_match
+c.go-mpulse.net:THIRD:DigiCert Inc:soa_match
+failed
+ca.iadsdk.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+calendar.google.com:THIRD:Google Trust Services LLC:soa_match
+canvaz.scdn.co:THIRD:DigiCert Inc:soa_match
+cast.google.com:THIRD:Google Trust Services LLC:soa_match
+cdn-content.ampproject.org:PRIVATE:Google Trust Services LLC:san_match
+cdn-f.adsmoloco.com:THIRD:GlobalSign nv-sa:soa_match
+cdn-gl.imrworldwide.com:THIRD:DigiCert Inc:soa_match
+cdn-lb.vungle.com:THIRD:Sectigo Limited:soa_match
+cdn-settings.segment.com:THIRD:Amazon:soa_match
+cdn-store-icons-akamai-prd.unityads.unity3d.com:THIRD:DigiCert Inc:soa_match
+cdn.ampproject.org:PRIVATE:Google Trust Services LLC:san_match
+cdn.attn.tv:THIRD:Amazon:soa_match
+cdn.branch.io:THIRD:Amazon:soa_match
+cdn.cookielaw.org:THIRD:Cloudflare, Inc.:soa_match
+cdn.espn.com:PRIVATE:"Let's Encrypt":san_match
+cdn.pbbl.co:THIRD:Amazon:soa_match
+cdn.registerdisney.go.com:THIRD:Entrust, Inc.:soa_match
+cdn.taboola.com:THIRD:DigiCert Inc:soa_match
+cdn1.espn.net:THIRD:Entrust, Inc.:soa_match
+cdn1.netsrv.com:PRIVATE:"Let's Encrypt":san_match
+cdn2.inner-active.mobi:THIRD:DigiCert Inc:soa_match
+cdp.cloud.unity3d.com:THIRD:DigiCert Inc:soa_match
+failed
+chatsvcagg.teams.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+client-api.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+clients.config.office.net:THIRD:Microsoft Corporation:soa_match
+failed
+clients3.google.com:THIRD:Google Trust Services LLC:soa_match
+clients4.google.com:THIRD:Google Trust Services LLC:soa_match
+clienttracing-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+failed
+collector-pxj6lydtxz.perimeterx.net:THIRD:DigiCert Inc:soa_match
+address_error
+address_error
+completion.amazon.com:THIRD:Amazon:soa_match
+failed
+config.ads.vungle.com:THIRD:Sectigo Limited:soa_match
+failed
+config.emb-api.com:THIRD:DigiCert Inc:soa_match
+config.inmobi.com:THIRD:Sectigo Limited:soa_match
+config.mapbox.com:THIRD:Amazon:soa_match
+failed
+config.teams.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+config.uca.cloud.unity3d.com:THIRD:Google Trust Services LLC:soa_match
+configuration.apple.com:PRIVATE:Apple Inc.:san_match
+configuration.ls.apple.com:PRIVATE:Apple Inc.:san_match
+address_error
+configv2.unityads.unity3d.com:THIRD:DigiCert Inc:soa_match
+connect.facebook.net:THIRD:DigiCert Inc:soa_match
+connectivitycheck.gstatic.com:THIRD:Google Trust Services LLC:soa_match
+content-autofill.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+conversions.appsflyer.com:THIRD:Amazon:soa_match
+failed
+failed
+crashlyticsreports-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+cw4dzy19m3ktp3er7xrvoafkfeiht1701631868.uaid.imrworldwide.com:THIRD:Amazon:soa_match
+failed
+d.applovin.com:THIRD:Google Trust Services LLC:soa_match
+d18yyyqht609b0.cloudfront.net:THIRD:Amazon:soa_match
+d1c8e7mhm09egg.cloudfront.net:THIRD:Amazon:soa_match
+d1jvc9b8z3vcjs.cloudfront.net:THIRD:Amazon:soa_match
+d1nruqhae353qc.cloudfront.net:THIRD:Amazon:soa_match
+d1ykf07e75w7ss.cloudfront.net:THIRD:Amazon:soa_match
+failed
+d2926jmvsihu4k.cloudfront.net:THIRD:Amazon:soa_match
+d29sshy11yr8a1.cloudfront.net:THIRD:Amazon:soa_match
+d2f2ekwwtg17a.cloudfront.net:THIRD:Amazon:soa_match
+d2h8zr0m6mus4x.cloudfront.net:THIRD:Amazon:soa_match
+d2s2jxtv35392n.cloudfront.net:THIRD:Amazon:soa_match
+d2trvg47ymk15r.cloudfront.net:THIRD:Amazon:soa_match
+d2wpodxytd2amw.cloudfront.net:THIRD:Amazon:soa_match
+d32t1bob6d76al.cloudfront.net:THIRD:Amazon:soa_match
+d3414yzj4y1jtc.cloudfront.net:THIRD:Amazon:soa_match
+d3ag4hukkh62yn.cloudfront.net:THIRD:Amazon:soa_match
+d3b55opm33rbhk.cloudfront.net:THIRD:Amazon:soa_match
+d3r454g9v5s33k.cloudfront.net:THIRD:Amazon:soa_match
+failed
+data.emb-api.com:THIRD:DigiCert Inc:soa_match
+dcf.espn.com:THIRD:Entrust, Inc.:soa_match
+failed
+dealer.spotify.com:THIRD:DigiCert Inc:soa_match
+device-provisioning.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+discover-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+disney.demdex.net:THIRD:DigiCert Inc:soa_match
+address_error
+address_error
+downloaddispatch.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+dpm.demdex.net:THIRD:DigiCert Inc:soa_match
+failed
+dspbeacons.ihasdsp.inmobi.com:THIRD:DigiCert Inc:soa_match
+dspbeacons.old.ihasdsp.inmobi.com:THIRD:DigiCert Inc:soa_match
+failed
+failed
+failed
+failed
+duihxgfnjg37f.cloudfront.net:THIRD:Amazon:soa_match
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+address_error
+failed
+address_error
+failed
+address_error
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+failed
+edge-mqtt.facebook.com:THIRD:DigiCert Inc:soa_match
+failed
+edge.safedk.com:THIRD:Google Trust Services LLC:soa_match
+encrypted-tbn0.gstatic.com:THIRD:Google Trust Services LLC:soa_match
+encrypted-tbn1.gstatic.com:THIRD:Google Trust Services LLC:soa_match
+encrypted-tbn3.gstatic.com:THIRD:Google Trust Services LLC:soa_match
+failed
+failed
+entitlements.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+espn.api.edge.bamgrid.com:THIRD:Amazon:soa_match
+failed
+espn.hb-api.omtrdc.net:THIRD:DigiCert Inc:soa_match
+et-eus.w.inmobi.com:THIRD:Sectigo Limited:soa_match
+eus.r.inmobi.com:THIRD:Sectigo Limited:soa_match
+events.ads.vungle.com:THIRD:Sectigo Limited:soa_match
+events.mapbox.com:THIRD:DigiCert Inc:soa_match
+events.mz.unity3d.com:THIRD:DigiCert Inc:soa_match
+external-static-gateway.supersonicads.com:THIRD:Amazon:soa_match
+fan.api.espn.com:THIRD:Entrust, Inc.:soa_match
+failed
+fan.core.api.espn.com:THIRD:Entrust, Inc.:soa_match
+failed
+fastly-tls12-insights-collector.newrelic.com:THIRD:DigiCert Inc:soa_match
+failed
+firebase-settings.crashlytics.com:THIRD:Google Trust Services LLC:soa_match
+firebaseinappmessaging.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+firebaseinstallations.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+firebaselogging-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+firebaseremoteconfig.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+failed
+fls-na.amazon.com:THIRD:Amazon:soa_match
+failed
+failed
+fmipalservice.icloud.com:PRIVATE:Apple Inc.:san_match
+fonts.gstatic.com:THIRD:Google Trust Services LLC:soa_match
+failed
+failed
+friend.gc.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+gateway.facebook.com:THIRD:DigiCert Inc:soa_match
+gateway.fe.apple-dns.net:PRIVATE:Apple Inc.:san_match
+gateway.instagram.com:THIRD:DigiCert Inc:soa_match
+gce-auction20-prd.unityads.unity3d.com:THIRD:DigiCert Inc:soa_match
+geller-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+failed
+failed
+go.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+go.trouter.teams.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+google.com:THIRD:Google Trust Services LLC:soa_match
+googleads.g.doubleclick.net:THIRD:Google Trust Services LLC:soa_match
+failed
+graph.facebook.com:THIRD:DigiCert Inc:soa_match
+graph.instagram.com:THIRD:DigiCert Inc:soa_match
+gsa.apple.com:PRIVATE:Apple Inc.:san_match
+gsa.idms-apple.com.akadns.net:PRIVATE:Apple Inc.:san_match
+gsas.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+failed
+gsp-ssl.ls.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+gsp64-ssl.ls.apple.com:PRIVATE:Apple Inc.:san_match
+gspe19-ssl.ls.apple.com:PRIVATE:Apple Inc.:san_match
+gspe35-ssl.ls.apple.com:PRIVATE:Apple Inc.:san_match
+gspe79-ssl.ls.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+guzzoni.apple.com:PRIVATE:Apple Inc.:san_match
+httpkafka.unityads.unity3d.com:THIRD:DigiCert Inc:soa_match
+address_error
+i.instagram.com:THIRD:DigiCert Inc:soa_match
+i.l-dsp.inmobicdn.net:THIRD:DigiCert Inc:soa_match
+i.scdn.co:THIRD:DigiCert Inc:soa_match
+i.ytimg.com:THIRD:Google Trust Services LLC:soa_match
+ib.adnxs.com:THIRD:DigiCert Inc:soa_match
+failed
+ic.de.inmobi.com:THIRD:Sectigo Limited:soa_match
+ic3.events.data.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+ichnaea-web.netflix.com:THIRD:DigiCert Inc:soa_match
+icloud.com:PRIVATE:Apple Inc.:san_match
+identitytoolkit.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+im.uniqlo.com:THIRD:DigiCert Inc:soa_match
+image-cdn-ak.spotifycdn.com:THIRD:DigiCert Inc:soa_match
+image.uniqlo.com:THIRD:DigiCert Inc:soa_match
+images-na.ssl-images-amazon.com:THIRD:DigiCert Inc:soa_match
+imasdk.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+in.appcenter.ms:PRIVATE:Microsoft Corporation:san_match
+failed
+failed
+inappcheck.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+inapps.appsflyer.com:THIRD:Amazon:soa_match
+init.gc.apple.com:PRIVATE:Apple Inc.:san_match
+init.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+init.supersonicads.com:THIRD:Amazon:soa_match
+insights-collector.newrelic.com:THIRD:DigiCert Inc:soa_match
+ios.ngp.prod.cloud.netflix.com:THIRD:DigiCert Inc:soa_match
+ios.prod.cloud.netflix.com:THIRD:DigiCert Inc:soa_match
+ios.prod.ftl.netflix.com:THIRD:DigiCert Inc:soa_match
+iosapps.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+ipv4-c072-nyc005-ix.1.oca.nflxvideo.net:THIRD:DigiCert Inc:soa_match
+ipv4-c085-nyc005-ix.1.oca.nflxvideo.net:THIRD:DigiCert Inc:soa_match
+address_error
+is-gateway.supersonicads.com:THIRD:Amazon:soa_match
+is1-ssl.mzstatic.com:PRIVATE:Apple Inc.:san_match
+failed
+itunes.apple.com:PRIVATE:Apple Inc.:san_match
+jnn-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+js.cnnx.link:THIRD:Amazon:soa_match
+js.rmtag.com:THIRD:Google Trust Services LLC:soa_match
+failed
+ka5zy9kw-ios.mobile-messenger.intercom.com:THIRD:Amazon:soa_match
+kaden-s3.b-cdn.net:THIRD:Sectigo Limited:soa_match
+kvinit-prod.api.kochava.com:THIRD:Sectigo Limited:soa_match
+launches.appsflyer.com:THIRD:Amazon:soa_match
+address_error
+failed
+lcdn-locator.apple.com:PRIVATE:Apple Inc.:san_match
+lh3.googleusercontent.com:THIRD:Google Trust Services LLC:soa_match
+lh5.googleusercontent.com:THIRD:Google Trust Services LLC:soa_match
+live-ftc-na-east-1.media.plus.espn.com:THIRD:COMODO CA Limited:soa_match
+log-activity.templates.inmobi.com:THIRD:Sectigo Limited:soa_match
+failed
+log.go.com:THIRD:Amazon:soa_match
+login.microsoftonline.com:THIRD:DigiCert Inc:soa_match
+login5.spotify.com:THIRD:DigiCert Inc:soa_match
+logs.ironsrc.mobi:THIRD:Amazon:soa_match
+m.media-amazon.com:THIRD:DigiCert Inc:soa_match
+mads.amazon-adsystem.com:THIRD:Amazon:soa_match
+mads.amazon.com:THIRD:Amazon:soa_match
+mail.google.com:THIRD:Google Trust Services LLC:soa_match
+failed
+mamservice.manage.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+marketplace-ios-b274.hyprmx.com:THIRD:Amazon:soa_match
+address_error
+address_error
+failed
+mesu.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+metrics.icloud.com:PRIVATE:Apple Inc.:san_match
+failed
+mobile-collector.newrelic.com:THIRD:DigiCert Inc:soa_match
+address_error
+mobile-data.onetrust.io:THIRD:Cloudflare, Inc.:soa_match
+failed
+failed
+mrodevicemgr.officeapps.live.com:THIRD:Microsoft Corporation:soa_match
+ms.applovin.com:THIRD:DigiCert Inc:soa_match
+ms4.applovin.com:THIRD:DigiCert Inc:soa_match
+mtalk.google.com:THIRD:Google Trust Services LLC:soa_match
+failed
+musicstatus.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+networksdk.ssacdn.com:THIRD:Amazon:soa_match
+nexus-websocket-a.intercom.io:THIRD:DigiCert Inc:soa_match
+nginx-ingress.wunderkind.co:PRIVATE:"Let's Encrypt":san_match
+noam.cc.skype.com:THIRD:Microsoft Corporation:soa_match
+northamerica-1.object-storage.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+notifications-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+oauth2.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+oauthaccountmanager.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+occ-0-448-444.1.nflxso.net:THIRD:DigiCert Inc:soa_match
+failed
+ocsp.pki.goog:PRIVATE:Google Trust Services LLC:tld_match
+ocsp.rootca1.amazontrust.com:PRIVATE:Amazon:tld_match
+failed
+failed
+odc.officeapps.live.com:THIRD:Microsoft Corporation:soa_match
+failed
+failed
+onprem-ipv4.cws.conviva.com:THIRD:Sectigo Limited:soa_match
+failed
+optanon.blob.core.windows.net:THIRD:Microsoft Corporation:soa_match
+outcome-ssp.supersonicads.com:THIRD:Amazon:soa_match
+p1.psplay.link:THIRD:Amazon:soa_match
+p11.techlab-cdn.com:PRIVATE:"Let's Encrypt":san_match
+failed
+p39-buy.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+p66-caldav.icloud.com:PRIVATE:Apple Inc.:san_match
+p66-escrowproxy.icloud.com:PRIVATE:Apple Inc.:san_match
+p66-fmf.icloud.com:PRIVATE:Apple Inc.:san_match
+pagead2.googlesyndication.com:THIRD:Google Trust Services LLC:soa_match
+failed
+passwordsleakcheck-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+pd.cdnwidget.com:PRIVATE:"Let's Encrypt":san_match
+pd.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+pinpoint-latency.geo.hosted.espn.com:THIRD:Amazon:soa_match
+pinpoint.espn.com:THIRD:Entrust, Inc.:soa_match
+failed
+play.google.com:THIRD:Google Trust Services LLC:soa_match
+play.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+play.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+playback.svcs.plus.espn.com:THIRD:COMODO CA Limited:soa_match
+failed
+poole-collector-prod.n3twork.com:THIRD:Amazon:soa_match
+failed
+prd-usw2-requestattribution-iad.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+presence.teams.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+address_error
+failed
+prod-mediate-events.applovin.com:THIRD:Google Trust Services LLC:soa_match
+prod.hyprmx.com:THIRD:Amazon:soa_match
+failed
+prod.tetris.pstetris.com:THIRD:Amazon:soa_match
+failed
+pubads.g.doubleclick.net:THIRD:Google Trust Services LLC:soa_match
+pubads46.g.doubleclick.net:THIRD:Google Trust Services LLC:soa_match
+failed
+failed
+publisher-event.unityads.unity3d.com:THIRD:DigiCert Inc:soa_match
+px-conf-ipv.perimeterx.net:THIRD:DigiCert Inc:soa_match
+px-conf.perimeterx.net:THIRD:DigiCert Inc:soa_match
+qqr5cduw.micpn.com:THIRD:Amazon:soa_match
+failed
+readaloud.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+redirector.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+registerdisney.go.com:THIRD:Amazon:soa_match
+reminders-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+remote-config-prd.uca.cloud.unity3d.com:THIRD:Google Trust Services LLC:soa_match
+res.cdn.office.net:THIRD:DigiCert Inc:soa_match
+rr1---sn-8xgp1vo-ab5l.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr2---sn-8xgp1vo-xfgl.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr2---sn-8xgp1vo-xfgs.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr3---sn-8xgp1vo-ab5l.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr4---sn-8xgp1vo-ab56.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr4---sn-8xgp1vo-ab5l.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr4---sn-8xgp1vo-ab5s.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr4---sn-8xgp1vo-ab5z.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr6---sn-8xgp1vo-ab5e.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr6---sn-8xgp1vo-ab5z.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rr8---sn-8xgp1vo-ab5z.googlevideo.com:THIRD:Google Trust Services LLC:soa_match
+rt.applovin.com:THIRD:DigiCert Inc:soa_match
+rv-gateway.supersonicads.com:THIRD:Amazon:soa_match
+failed
+failed
+s.amazon-adsystem.com:THIRD:Amazon:soa_match
+s.espncdn.com:PRIVATE:"Let's Encrypt":san_match
+s.go-mpulse.net:THIRD:DigiCert Inc:soa_match
+s.youtube.com:THIRD:Google Trust Services LLC:soa_match
+save-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+sb.scorecardresearch.com:THIRD:Sectigo Limited:soa_match
+sc-static.net:THIRD:Amazon:soa_match
+scar.unityads.unity3d.com:THIRD:DigiCert Inc:soa_match
+scontent-lga3-1.cdninstagram.com:THIRD:DigiCert Inc:soa_match
+scontent-lga3-2.cdninstagram.com:THIRD:DigiCert Inc:soa_match
+scontent.xx.fbcdn.net:THIRD:DigiCert Inc:soa_match
+scripts.webcontentassessor.com:THIRD:GlobalSign nv-sa:soa_match
+sdk-api-v1.singular.net:THIRD:DigiCert Inc:soa_match
+sdk-gate.singular.net:THIRD:DigiCert Inc:soa_match
+sdk.iad-01.braze.com:THIRD:GlobalSign nv-sa:soa_match
+sdk.iad-06.braze.com:THIRD:GlobalSign nv-sa:soa_match
+se-edge.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+searchpromo-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+secure-dcr.imrworldwide.com:THIRD:DigiCert Inc:soa_match
+secure.espn.com:THIRD:Entrust, Inc.:soa_match
+secure.espncdn.com:THIRD:Entrust, Inc.:soa_match
+securetoken.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+seed-mix-image.spotifycdn.com:THIRD:GlobalSign nv-sa:soa_match
+sentry.io:THIRD:DigiCert Inc:soa_match
+service-pkgespn.akamaized.net:THIRD:DigiCert Inc:soa_match
+failed
+setup.icloud.com:PRIVATE:Apple Inc.:san_match
+sf-api-token-service.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+silverbullet-external-ats.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+site.web.api.espn.com:THIRD:Entrust, Inc.:soa_match
+failed
+failed
+sp.auth.adobe.com:THIRD:DigiCert Inc:soa_match
+spclient.wg.spotify.com:THIRD:DigiCert Inc:soa_match
+sportscenter.api.espn.com:THIRD:Entrust, Inc.:soa_match
+sportscenter.fan.api.espn.com:THIRD:Entrust, Inc.:soa_match
+ssl.google-analytics.com:THIRD:Google Trust Services LLC:soa_match
+ssl.gstatic.com:THIRD:Google Trust Services LLC:soa_match
+address_error
+failed
+failed
+static.bounceexchange.com:THIRD:Google Trust Services LLC:soa_match
+static.doubleclick.net:THIRD:Google Trust Services LLC:soa_match
+static.hyprmx.com:THIRD:Amazon:soa_match
+static.ssacdn.com:THIRD:Amazon:soa_match
+stats.g.doubleclick.net:THIRD:Google Trust Services LLC:soa_match
+stats.gc.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+streams.adobeprimetime.com:THIRD:DigiCert Inc:soa_match
+substrate.office.com:THIRD:DigiCert Inc:soa_match
+suggestqueries.google.com:THIRD:Google Trust Services LLC:soa_match
+failed
+sw88.espn.com:THIRD:DigiCert Inc:soa_match
+sw88.go.com:THIRD:DigiCert Inc:soa_match
+tag.bouncex.net:PRIVATE:"Let's Encrypt":san_match
+tag.wknd.ai:PRIVATE:"Let's Encrypt":san_match
+tay-ingestion.playlnk.io:PRIVATE:"Let's Encrypt":san_match
+tdzima9s82mz7cih6olkiouyjjy421701631868.uaid.imrworldwide.com:THIRD:Amazon:soa_match
+teams.events.data.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+teams.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+failed
+failed
+failed
+telemetry.sdk.inmobi.com:THIRD:Sectigo Limited:soa_match
+failed
+failed
+failed
+failed
+tpc.googlesyndication.com:THIRD:Google Trust Services LLC:soa_match
+tr-us.adsmoloco.com:THIRD:Sectigo Limited:soa_match
+tredir.espn.com:THIRD:Amazon:soa_match
+u.expo.dev:THIRD:Cloudflare, Inc.:soa_match
+unagi-na.amazon.com:THIRD:Amazon:soa_match
+unagi.amazon.com:THIRD:Amazon:soa_match
+failed
+upp.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+us-app.justride.com:THIRD:Amazon:soa_match
+us-east.netsrv.com:THIRD:Amazon:soa_match
+us.creativecdn.com:THIRD:DigiCert Inc:soa_match
+failed
+ut.linksynergy.com:THIRD:Google Trust Services LLC:soa_match
+ut.rd.linksynergy.com:THIRD:ZeroSSL:soa_match
+uts-api.itunes.apple.com:PRIVATE:Apple Inc.:san_match
+v.ssacdn.com:THIRD:Amazon:soa_match
+va-edge.sc.omtrdc.net:THIRD:DigiCert Inc:soa_match
+failed
+valid.apple.com:PRIVATE:Apple Inc.:san_match
+video.geo.hosted.espn.com:THIRD:Amazon:soa_match
+view.adjust.com:THIRD:DigiCert Inc:soa_match
+viper-gke-test.inner-active.mobi:THIRD:Sectigo Limited:soa_match
+vision.fn-pz.com:THIRD:Amazon:soa_match
+watch.graph.api.espn.com:THIRD:Entrust, Inc.:soa_match
+failed
+watch.product.api.espn.com:THIRD:Entrust, Inc.:soa_match
+failed
+failed
+web.facebook.com:THIRD:DigiCert Inc:soa_match
+webview.unityads.unity3d.com:THIRD:Amazon:soa_match
+failed
+worldaz.relay.teams.microsoft.com:PRIVATE:Microsoft Corporation:tld_match
+wv.inner-active.mobi:THIRD:Sectigo Limited:soa_match
+www-alv.google-analytics.com:THIRD:Google Trust Services LLC:soa_match
+www.amazon.com:THIRD:DigiCert Inc:soa_match
+www.espn.com:THIRD:Entrust, Inc.:soa_match
+www.google-analytics.com:THIRD:Google Trust Services LLC:soa_match
+www.google.com:THIRD:Google Trust Services LLC:soa_match
+www.googleadservices.com:THIRD:Google Trust Services LLC:soa_match
+www.googletagmanager.com:THIRD:Google Trust Services LLC:soa_match
+www.googletagservices.com:THIRD:Google Trust Services LLC:soa_match
+www.gstatic.com:THIRD:Google Trust Services LLC:soa_match
+www.netflix.com:THIRD:DigiCert Inc:soa_match
+www.spotify.com:THIRD:DigiCert Inc:soa_match
+failed
+www.uniqlo.com:THIRD:DigiCert Inc:soa_match
+www.youtube.com:THIRD:Google Trust Services LLC:soa_match
+failed
+xgapromomanager-pa.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+xp.apple.com:PRIVATE:Apple Inc.:san_match
+failed
+xymfbjf5odf8lnfumnvpn6z4wj1081701631869.uaid.imrworldwide.com:THIRD:Amazon:soa_match
+youtubei.googleapis.com:THIRD:Google Trust Services LLC:soa_match
+yt3.ggpht.com:THIRD:Google Trust Services LLC:soa_match
+yt3.googleusercontent.com:THIRD:Google Trust Services LLC:soa_match
+address_error
+z.moatads.com:THIRD:DigiCert Inc:soa_match
+zn5oofkuyw9aqvtwc-uniqlousa.siteintercept.qualtrics.com:THIRD:DigiCert Inc:soa_match
